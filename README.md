@@ -1,1 +1,1 @@
-# Electrical_Engineering_related
+資工系學生在接電路。
